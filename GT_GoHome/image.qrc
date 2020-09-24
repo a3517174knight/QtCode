@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>OnePiece.png</file>
+        <file>lufu.gif</file>
+        <file>OnePiece.jpg</file>
+        <file>Luffy.png</file>
+        <file>c++father.jpg</file>
+    </qresource>
+</RCC>
